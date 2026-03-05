@@ -14,3 +14,7 @@ Features
 
 Author
 Samm
+
+## Output Graph
+
+![Sales Graph](sales_graph.png)
